@@ -1,7 +1,7 @@
 // ------------- FILE HEADER -------------
-// Author ✅: 
-// Assignment ✅:
-// Date ✅:
+// Author ✅: Cory Beach 
+// Assignment ✅: CS-161A Assignment 1
+// Date ✅: 04/11/2026
 // Citations: 
 
 
